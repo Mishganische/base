@@ -66,8 +66,7 @@ The figure below illustrates this behavior using an example.
 
 
 ## Lab 2 - Source Code Management
-This repository is used for the **Source Code Management** laboratory.
-
+This repository is used for the **Source Code Management - Merged Version** laboratory.
 ### What I practiced
 
 - *Git version control*
