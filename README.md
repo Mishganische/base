@@ -66,7 +66,6 @@ The figure below illustrates this behavior using an example.
 
 
 ## Lab 2 - Source Code Management
-
 This repository is used for the **Source Code Management** laboratory.
 
 ### What I practiced
